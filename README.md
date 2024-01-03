@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/e-commerce-site.git
+git clone https://github.com/Abhishekyadav2024/XenonStacktask2.git
 cd e-commerce-site
 Install dependencies:
 
